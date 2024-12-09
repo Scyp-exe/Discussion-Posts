@@ -1,3 +1,4 @@
 <h1>Weekly Disccusion Posts!</h1>
-<h2>Here you will see documents to all of my initial discussion posts in IST110</h2>
-<b>These posts gave me insight to different parts of the class after researching a few topics. This allowed me to become more knowledgeable within Information Sciences, and give me a true understanding of some of the potentional fields the degree touches.</b>
+<h6>Click "View raw" within each lab to download labs.</h6>
+<h2>My Initial discussion posts in IST110</h2>
+Throughout the course I was able to discuss different guided topics with my classmates. Many of the posts that I read provided me interesting approaches and thoughts I would have never come up with on my own. These posts gave me more insight after researching the topics. At the end it allowed me to become more knowledge and give me a true understanding of some of the potential fields I can be in after the getting the degree.
